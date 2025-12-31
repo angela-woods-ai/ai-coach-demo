@@ -1,0 +1,20 @@
+# Core API framework
+fastapi
+uvicorn
+
+# Data modeling & utilities
+pydantic
+python-dotenv
+
+# HTTP clients
+requests
+httpx
+
+# Numerical utilities (toy embeddings & cosine similarity)
+numpy
+
+# Pinecone vector database (optional, gated by USE_PINECONE)
+pinecone
+
+# Anthropic / Claude LLM (optional, gated by USE_CLAUDE)
+anthropic
